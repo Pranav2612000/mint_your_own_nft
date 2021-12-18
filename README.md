@@ -13,3 +13,6 @@ npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
 ```
+
+## Link to Created NFT
+https://rinkeby.rarible.com/token/0x17794309187e135b929AbCcF76044aAe5e336b3E:0
